@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+## NAME: PRIYADHARSHINI M
+## REF.NO: 25017828
 
 **AIM:**
 
@@ -24,15 +26,14 @@
 
 **CIRCUIT DIAGRAM:**
 
+![verification of kirchoff's law _page-0001](https://github.com/user-attachments/assets/f4944da2-f511-427e-a5e3-d8a43a2b786f)
+
+![verification of kirchoff's law _page-0002](https://github.com/user-attachments/assets/6852acb0-e9fb-4c78-adec-00a77691eb61)
 
 
+![verification of kirchoff's law _page-0003](https://github.com/user-attachments/assets/ef384ade-9251-4983-8619-ad5a637763f2)
 
-
-
-
-
-
-
+![verification of kirchoff's law _page-0004](https://github.com/user-attachments/assets/2146222f-2c14-42db-832f-6d914ab13b46)
 
 
 **PROCEDURE:**
